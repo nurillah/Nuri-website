@@ -81,7 +81,7 @@ my-website/
     <p>Email: abdillahummu30@email.com</p>
     <p>Telepon: 082261017448</p>
     <form action="#" method="post">
-        <label>Nama:</label><br>
+        <label>Nama:Mughni Nuriilah </label><br>
         <input type="text" name="nama"><br><br>
         <label>Pesan:</label><br>
         <textarea name="pesan" rows="5"></textarea><br><br>
