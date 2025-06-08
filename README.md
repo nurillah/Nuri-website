@@ -14,15 +14,12 @@ Ini adalah website yang membahas tentang buku, apapun tentang buki ada disini, d
         <p>Ini adalah halaman utama website saya. Silakan telusuri halaman lainnya melalui menu di atas.</p>
     </main>
     <footer>
-        &copy; 2025 Nama Anda. Semua Hak Dilindungi.
-    </footer>
-</body>
-</html>
-<title>Tentang Saya - Website Saya</title> saya adalah seorang perempuan berumur 24 tahun, tinggal di kuantan Singingi yang merupakan salah satu kabupaten di Riau. Saya suka sekali dengan dunia baca
+        &copy; 2025 Nama Anda. mughni nurillah Semua Hak Dilindungi.
+
 ...
 <main>
     <h2>Tentang Saya</h2>
-    <p>Halo! Nama saya [Nama Anda]. Saya seorang [profesi/hobi]. Ini adalah website pribadi saya.</p>
+    <p>Halo! Nama saya [Mughni Nurillah]. Saya seorang [mahasiswi/sedikit membaca]. Ini adalah website pribadi saya.</p>
 </main>
 <title>Portofolio - Website Saya</title>
 ...
