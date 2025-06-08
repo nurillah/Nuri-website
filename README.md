@@ -6,13 +6,11 @@ Ini adalah website yang membahas tentang buku, apapun tentang buki ada disini, d
     <nav>
         <a href="index.html">Beranda</a>
         <a href="about.html">Tentang Saya</a>
-       saya adalah seorang perempuan berumur 24 tahun, tinggal di kuantan Singingi yang merupakan salah satu kabupaten di Riau. Saya suka sekali dengan dunia baca.<a ddehref="portfolio.html">Portofolio</a>
+       <a ddehref="portfolio.html">Portofolio</a>
         <a href="blog.html">Blog</a>
         <a href="gallery.html">Galeri</a>
         <a href="contact.html">Kontak</a>
     </nav>
-    <main>
-        <h2>Halo!</h2>
         <p>Ini adalah halaman utama website saya. Silakan telusuri halaman lainnya melalui menu di atas.</p>
     </main>
     <footer>
@@ -20,7 +18,7 @@ Ini adalah website yang membahas tentang buku, apapun tentang buki ada disini, d
     </footer>
 </body>
 </html>
-<title>Tentang Saya - Website Saya</title>
+<title>Tentang Saya - Website Saya</title> saya adalah seorang perempuan berumur 24 tahun, tinggal di kuantan Singingi yang merupakan salah satu kabupaten di Riau. Saya suka sekali dengan dunia baca
 ...
 <main>
     <h2>Tentang Saya</h2>
