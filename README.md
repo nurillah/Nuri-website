@@ -78,8 +78,8 @@ my-website/
 ...
 <main>
     <h2>Kontak Saya</h2>
-    <p>Email: nama@email.com</p>
-    <p>Telepon: 0812-XXXX-XXXX</p>
+    <p>Email: abdillahummu30@email.com</p>
+    <p>Telepon: 082261017448</p>
     <form action="#" method="post">
         <label>Nama:</label><br>
         <input type="text" name="nama"><br><br>
