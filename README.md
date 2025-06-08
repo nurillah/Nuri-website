@@ -14,34 +14,21 @@ Ini adalah website yang membahas tentang buku, apapun tentang buki ada disini, d
         <p>Ini adalah halaman utama website saya. Silakan telusuri halaman lainnya melalui menu di atas.</p>
     </main>
     <footer>
-        &copy; 2025 Nama Anda. mughni nurillah Semua Hak Dilindungi.
+        &copy; 2025 Nama  mughni nurillah. Semua Hak Dilindungi.
 
 ...
 <main>
     <h2>Tentang Saya</h2>
-    <p>Halo! Nama saya [Mughni Nurillah]. Saya seorang [mahasiswi/sedikit membaca]. Ini adalah website pribadi saya.</p>
+    <p>Halo! Nama saya Mughni Nurillah. Saya seorang mahasiswi yang memiliki hobi sedikit membaca. Ini adalah website pribadi saya.</p>
 </main>
 <title>Portofolio - Website Saya</title>
 ...
 <main>
     <h2>Portofolio</h2>
     <ul>
-        <li><strong>Proyek 1:</strong> Deskripsi singkat proyek pertama</li>
-        <li><strong>Proyek 2:</strong> Deskripsi singkat proyek kedua</li>
-    </ul>
+        <li><strong>Proyek 1:</strong> tentang buku, buku harus dilestarikan, membaca harus dibudidayakan. masyarakat harus cinta dunia baca</li>
 </main>
-<title>Blog - Website Saya</title>
-...
-<main>
-    <h2>Artikel & Blog</h2>
-    <article>
-        <h3>Judul Artikel 1</h3>
-        <p>Isi singkat artikel...</p>
-    </article>
-    <article>
-        <h3>Judul Artikel 2</h3>
-        <p>Isi singkat artikel lainnya...</p>
-    </article>
+<title>Blog - saya lagi berusaha membuat blog yang bail. oleh karena itu berikan saya masukan caraembuat blog yang benar
 </main>
 <title>Galeri - Website Saya</title>
 ...
