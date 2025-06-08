@@ -1,6 +1,6 @@
 # Nuri-website
 my-website/
-├── index.html
+Ini adalah website yang membahas tentang buku, apapun tentang buki ada disini, dunia bukuindex.html
 ├── about.html
 ├── portfolio.html
 ├── blog.html
