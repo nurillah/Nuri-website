@@ -1,31 +1,12 @@
 # Nuri-website
 my-website/
 Ini adalah website yang membahas tentang buku, apapun tentang buki ada disini, dunia bukuindex.html
-├── about.html
-├── portfolio.html
-├── blog.html
-├── gallery.html
-├── contact.html
-├── css/
-│   └── style.css
-├── img/
-│   └── (gambar-gambar Anda)
-<!DOCTYPE html>
-<html lang="id">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Beranda - Website Saya</title>
-    <link rel="stylesheet" href="css/style.css">
-</head>
-<body>
-    <header>
         <h1>Selamat Datang di Website Saya</h1>
     </header>
     <nav>
         <a href="index.html">Beranda</a>
         <a href="about.html">Tentang Saya</a>
-        <a href="portfolio.html">Portofolio</a>
+       saya adalah seorang perempuan berumur 24 tahun, tinggal di kuantan Singingi yang merupakan salah satu kabupaten di Riau. Saya suka sekali dengan dunia baca.<a ddehref="portfolio.html">Portofolio</a>
         <a href="blog.html">Blog</a>
         <a href="gallery.html">Galeri</a>
         <a href="contact.html">Kontak</a>
